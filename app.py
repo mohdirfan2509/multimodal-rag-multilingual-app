@@ -208,5 +208,5 @@ with gr.Blocks() as demo:
         btn2.click(t2i_handler, inputs=[q_in, lang_in, k2_in], outputs=[img_gallery])
 
 if __name__ == "__main__":
-    demo.launch()
+    demo.launch(server_name="0.0.0.0", server_port=7860)
 
