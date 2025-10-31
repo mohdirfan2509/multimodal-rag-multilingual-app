@@ -1,0 +1,9 @@
+query_image,hit_1_text,hit_1_score,hit_2_text,hit_2_score,hit_3_text,hit_3_score
+camera.jpeg,a person looking at a camera on a tripod,0.32638800144195557,a page of text about segmentation,0.23731295764446259,a teacher in the class,0.2123352289199829
+cat.jpeg,a black cat on the road,0.3302701413631439,a black motorcycle standing on side of a wall,0.20438314974308014,a page of text about segmentation,0.20191162824630737
+coffee.jpeg,a cup of coffee on a saucer,0.27255475521087646,a page of text about segmentation,0.21393558382987976,a teacher in the class,0.18844923377037048
+girl.jpeg,a school girl in the garden,0.2801024913787842,a teacher in the class,0.2331881821155548,a housewife in the kitchen,0.22746287286281586
+house_wife.jpeg,a housewife in the kitchen,0.25212398171424866,a page of text about segmentation,0.19417940080165863,a person looking at a camera on a tripod,0.17912530899047852
+motorcycle_right.jpeg,a black motorcycle standing on side of a wall,0.26705101132392883,a black cat on the road,0.23831987380981445,a teacher in the class,0.18678978085517883
+teacher.jpeg,a teacher in the class,0.2788260579109192,a school girl in the garden,0.20575487613677979,a page of text about segmentation,0.1996382176876068
+page.png,a page of text about segmentation,0.3321876525878906,a teacher in the class,0.15188443660736084,a cup of coffee on a saucer,0.13639917969703674

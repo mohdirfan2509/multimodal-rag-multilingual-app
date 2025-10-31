@@ -1,0 +1,62 @@
+{
+  "images": [
+    "camera.jpeg",
+    "cat.jpeg",
+    "coffee.jpeg",
+    "girl.jpeg",
+    "house_wife.jpeg",
+    "motorcycle_right.jpeg",
+    "teacher.jpeg",
+    "page.png"
+  ],
+  "texts_en": [
+    "a person looking at a camera on a tripod",
+    "a black cat on the road",
+    "a cup of coffee on a saucer",
+    "a school girl in the garden",
+    "a housewife in the kitchen",
+    "a black motorcycle standing on side of a wall",
+    "a teacher in the class",
+    "a page of text about segmentation"
+  ],
+  "texts_es": [
+    "Una persona que mira una cámara en un tripod",
+    "Un gato negro en el camino",
+    "Una taza de café en una salsa",
+    "Una niña de la escuela en el jardín",
+    "Una mujer en la cocina",
+    "Una moto negra que está al lado de una pared",
+    "Un maestro en la clase",
+    "Página de texto sobre la segmentación"
+  ],
+  "texts_fr": [
+    "Une personne qui regarde une caméra sur un tripod",
+    "Un chat noir sur la route",
+    "Une tasse de café sur un sucre",
+    "Une école dans le jardin",
+    "Une femme dans la cuisine",
+    "Une moto noire sur le côté d'un mur",
+    "Un enseignant dans la classe",
+    "Une page de texte sur la segmentation"
+  ],
+  "texts_hi": [
+    "एक व्यक्ति एक ट्रिपड पर कैमरे को देखता है",
+    "सड़क पर एक काली बिल्ली",
+    "एक सॉसेज पर एक कप कॉफी",
+    "बगीचे में एक स्कूल लड़की",
+    "रसोई में घर की पत्नी",
+    "एक ब्लैक मोटरसाइकिल एक दीवार के बगल में खड़ी है",
+    "कक्षा में एक शिक्षक",
+    "segmentation के बारे में एक पाठ पृष्ठ"
+  ],
+  "texts_te": [
+    "త్రిపాదపై కెమెరాను చూస్తున్న వ్యక్తి",
+    "రోడ్డు మీద ఒక నల్ల పిల్లి",
+    "ఒక సాసర్ మీద ఒక కప్పు కాఫీ",
+    "తోటలో ఒక పాఠశాల అమ్మాయి",
+    "వంటగదిలో ఒక గృహిణి",
+    "ఒక నల్లటి మోటార్‌సైకిల్ గోడ పక్కన నిలబడి ఉంది",
+    "తరగతిలో ఒక ఉపాధ్యాయుడు",
+    "విభజన గురించి వచనం యొక్క పేజీ"
+  ]
+}

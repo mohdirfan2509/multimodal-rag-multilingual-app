@@ -1,0 +1,9 @@
+query_image,hit_1_text,hit_1_score,hit_2_text,hit_2_score,hit_3_text,hit_3_score
+camera.jpeg,Una persona que mira una cámara en un tripod,0.32638800144195557,Página de texto sobre la segmentación,0.23731295764446259,Un maestro en la clase,0.2123352289199829
+cat.jpeg,Un gato negro en el camino,0.3302701413631439,Una moto negra que está al lado de una pared,0.20438314974308014,Página de texto sobre la segmentación,0.20191162824630737
+coffee.jpeg,Una taza de café en una salsa,0.27255475521087646,Página de texto sobre la segmentación,0.21393558382987976,Un maestro en la clase,0.18844923377037048
+girl.jpeg,Una niña de la escuela en el jardín,0.2801024913787842,Un maestro en la clase,0.2331881821155548,Una mujer en la cocina,0.22746287286281586
+house_wife.jpeg,Una mujer en la cocina,0.25212398171424866,Página de texto sobre la segmentación,0.19417940080165863,Una persona que mira una cámara en un tripod,0.17912530899047852
+motorcycle_right.jpeg,Una moto negra que está al lado de una pared,0.26705101132392883,Un gato negro en el camino,0.23831987380981445,Un maestro en la clase,0.18678978085517883
+teacher.jpeg,Un maestro en la clase,0.2788260579109192,Una niña de la escuela en el jardín,0.20575487613677979,Página de texto sobre la segmentación,0.1996382176876068
+page.png,Página de texto sobre la segmentación,0.3321876525878906,Un maestro en la clase,0.15188443660736084,Una taza de café en una salsa,0.13639917969703674

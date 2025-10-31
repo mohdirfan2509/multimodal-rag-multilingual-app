@@ -1,0 +1,9 @@
+query_text_idx,hits_image,hits_score
+0,"[""camera.jpeg"", ""teacher.jpeg"", ""motorcycle_right.jpeg""]","[2.109339475631714, 1.9565144777297974, 1.9359139204025269]"
+1,"[""camera.jpeg"", ""motorcycle_right.jpeg"", ""teacher.jpeg""]","[2.2437691688537598, 2.1270127296447754, 2.1226587295532227]"
+2,"[""camera.jpeg"", ""motorcycle_right.jpeg"", ""teacher.jpeg""]","[2.1569857597351074, 2.0381155014038086, 1.9705874919891357]"
+3,"[""camera.jpeg"", ""motorcycle_right.jpeg"", ""coffee.jpeg""]","[2.25941801071167, 2.164543390274048, 2.110076427459717]"
+4,"[""camera.jpeg"", ""motorcycle_right.jpeg"", ""coffee.jpeg""]","[2.301727533340454, 2.180856227874756, 2.108049154281616]"
+5,"[""camera.jpeg"", ""motorcycle_right.jpeg"", ""girl.jpeg""]","[2.408940076828003, 2.352067232131958, 2.3397669792175293]"
+6,"[""camera.jpeg"", ""motorcycle_right.jpeg"", ""teacher.jpeg""]","[2.245934247970581, 2.1499462127685547, 2.09676194190979]"
+7,"[""camera.jpeg"", ""teacher.jpeg"", ""motorcycle_right.jpeg""]","[2.137850761413574, 2.0428335666656494, 2.0230698585510254]"

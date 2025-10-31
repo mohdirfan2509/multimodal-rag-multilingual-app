@@ -1,0 +1,9 @@
+query_image,hit_1_text,hit_1_score,hit_2_text,hit_2_score,hit_3_text,hit_3_score
+camera.jpeg,Une personne qui regarde une caméra sur un tripod,0.32638800144195557,Une page de texte sur la segmentation,0.23731295764446259,Un enseignant dans la classe,0.2123352289199829
+cat.jpeg,Un chat noir sur la route,0.3302701413631439,Une moto noire sur le côté d'un mur,0.20438314974308014,Une page de texte sur la segmentation,0.20191162824630737
+coffee.jpeg,Une tasse de café sur un sucre,0.27255475521087646,Une page de texte sur la segmentation,0.21393558382987976,Un enseignant dans la classe,0.18844923377037048
+girl.jpeg,Une école dans le jardin,0.2801024913787842,Un enseignant dans la classe,0.2331881821155548,Une femme dans la cuisine,0.22746287286281586
+house_wife.jpeg,Une femme dans la cuisine,0.25212398171424866,Une page de texte sur la segmentation,0.19417940080165863,Une personne qui regarde une caméra sur un tripod,0.17912530899047852
+motorcycle_right.jpeg,Une moto noire sur le côté d'un mur,0.26705101132392883,Un chat noir sur la route,0.23831987380981445,Un enseignant dans la classe,0.18678978085517883
+teacher.jpeg,Un enseignant dans la classe,0.2788260579109192,Une école dans le jardin,0.20575487613677979,Une page de texte sur la segmentation,0.1996382176876068
+page.png,Une page de texte sur la segmentation,0.3321876525878906,Un enseignant dans la classe,0.15188443660736084,Une tasse de café sur un sucre,0.13639917969703674
