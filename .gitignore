@@ -4,6 +4,8 @@ __pycache__/
 *$py.class
 *.so
 .Python
+*.pyc
+*.pyo
 build/
 develop-eggs/
 dist/
@@ -34,7 +36,7 @@ env/
 *~
 .DS_Store
 
-# Jupyter Notebook
+# Jupyter Notebook 
 .ipynb_checkpoints
 
 # Model files (too large for git)
