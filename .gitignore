@@ -46,8 +46,8 @@ models/
 *.pt
 *.pth
 
-# Embeddings (large .npy files)
-embeddings/*.npy
+# Embeddings (commented out - included for HF Spaces deployment)
+# embeddings/*.npy
 
 # Data files (optional - exclude if large)
 # data/
