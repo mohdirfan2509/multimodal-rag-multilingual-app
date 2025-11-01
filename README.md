@@ -1,6 +1,6 @@
  ## Multi-Modal RAG (Multilingual Image Descriptions)
 
- End-to-end system for image↔text retrieval with multilingual support (EN/ES/FR). Uses CLIP for image/text embeddings, Sentence-Transformers for multilingual text embeddings, FAISS for fast similarity search, and Gradio for a lightweight demo.
+ End-to-end system for image↔text retrieval with multilingual support (EN/ES/FR/HI/TE). Uses CLIP for image/text embeddings, Sentence-Transformers for multilingual text embeddings, FAISS for fast similarity search, and Gradio for a lightweight demo.
 
  ### Folder Structure
  ```
@@ -74,7 +74,7 @@ python setup.py  # Creates venv, installs deps, pre-downloads models
    # Step 1: Clean data
    python scripts/data_preprocess.py
    
-   # Step 2: Translate to Spanish and French
+   # Step 2: Translate to Spanish, French, Hindi, and Telugu
    python scripts/translate.py
    
    # Step 3: Generate embeddings (CLIP + SentenceTransformer)
@@ -104,7 +104,7 @@ python setup.py  # Creates venv, installs deps, pre-downloads models
 ├── scripts/                # Pipeline scripts
 │   ├── config.py          # Configuration
 │   ├── data_preprocess.py # Data cleaning
-│   ├── translate.py       # Translation (EN→ES/FR)
+│   ├── translate.py       # Translation (EN→ES/FR/HI/TE)
 │   ├── embeddings.py      # Embedding generation
 │   ├── retrieval.py       # FAISS retrieval
 │   └── evaluate.py        # Evaluation metrics
@@ -115,16 +115,16 @@ python setup.py  # Creates venv, installs deps, pre-downloads models
 
 ### Features
 
-- ✅ **Image-to-Text Retrieval**: Upload image, get top-K descriptions in EN/ES/FR
-- ✅ **Text-to-Image Retrieval**: Enter text query, retrieve relevant images
-- ✅ **Multilingual Support**: English, Spanish, French
+- ✅ **Image-to-Text Retrieval**: Upload image, get top-K descriptions in EN/ES/FR/HI/TE
+- ✅ **Text-to-Image Retrieval**: Enter text query in any supported language, retrieve relevant images
+- ✅ **Multilingual Support**: English, Spanish, French, Hindi, Telugu
 - ✅ **Fast Retrieval**: FAISS-based similarity search
 - ✅ **Evaluation Metrics**: Cosine similarity, Accuracy@K, BLEU scores
 
 ### Notes
 
-- **Translation**: Uses `facebook/m2m100_418M` (~2GB). Models download automatically on first use.
-- **Skip Translation**: If you already have `text_es` and `text_fr` columns, skip `translate.py`.
+- **Translation**: Uses `facebook/m2m100_418M` (~2GB) for ES/FR/HI, and `deep-translator` (GoogleTranslator) for TE. Models download automatically on first use.
+- **Skip Translation**: If you already have `text_es`, `text_fr`, `text_hi`, and `text_te` columns, skip `translate.py`.
 - **Results**: Top-3 retrievals and evaluation metrics saved to `results/` directory.
 - **GPU Support**: Automatically uses GPU if available (CUDA), falls back to CPU.
 

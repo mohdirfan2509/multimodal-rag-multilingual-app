@@ -170,7 +170,7 @@ def text_to_image(query: str, lang: str, top_k: int = TOP_K):
 
 
 with gr.Blocks() as demo:
-    gr.Markdown("**Multimodal RAG: Image↔Text Retrieval (EN/ES/FR)**")
+    gr.Markdown("**Multimodal RAG: Image↔Text Retrieval (EN/ES/FR/HI/TE)**")
 
     with gr.Tab("Image → Text"):
         with gr.Row():
